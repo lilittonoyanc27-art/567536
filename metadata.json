@@ -1,0 +1,6 @@
+{
+  "name": "Muñeca Brava — Español Interactivo",
+  "description": "Aprende español rioplatense interactivo con Muñeca Brava con subtítulos, traducción al armenio, cuestionarios y juegos interactivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
